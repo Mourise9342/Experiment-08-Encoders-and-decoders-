@@ -98,6 +98,13 @@ endmodule
 
 
 ### RTL LOGIC  
+ENCODER
+
+![Ss77](https://github.com/Mourise9342/Experiment-08-Encoders-and-decoders-/assets/120081893/9701ce4f-2e9f-4b40-8d86-d9cf956928a3)
+
+DECODER
+
+![ss 78 d](https://github.com/Mourise9342/Experiment-08-Encoders-and-decoders-/assets/120081893/31ff836a-fe6e-45d4-bbee-79437f4f2de7)
 
 
 
@@ -106,13 +113,26 @@ endmodule
 
 
 
-### TIMING DIGRAMS  
+
+### TIMING DIGRAMS 
+ENCODER
+![SS tmen](https://github.com/Mourise9342/Experiment-08-Encoders-and-decoders-/assets/120081893/e98a63bf-7c9f-4f14-a784-9be9bbf85d51)
+
+DECODER
+![Ss tmde](https://github.com/Mourise9342/Experiment-08-Encoders-and-decoders-/assets/120081893/7c4ed327-118f-410e-aa55-6da65e76234d)
+
 
 
 
 
 
 ### TRUTH TABLE 
+ENCODER
+![TREN](https://github.com/Mourise9342/Experiment-08-Encoders-and-decoders-/assets/120081893/939143d4-0968-45df-a323-1fd508789954)
+
+DECODER
+![Screenshot 2023-06-13 183435](https://github.com/Mourise9342/Experiment-08-Encoders-and-decoders-/assets/120081893/07056d80-3ef2-40ff-9491-7b0cec0e0327)
+
 
 
 
@@ -120,3 +140,4 @@ endmodule
 
 
 ### RESULTS 
+Thus the program to desing encoder and decoder is done.
