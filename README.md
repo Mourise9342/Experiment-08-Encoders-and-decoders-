@@ -115,10 +115,10 @@ DECODER
 
 
 ### TIMING DIGRAMS 
-ENCODER
+##ENCODER
 ![SS tmen](https://github.com/Mourise9342/Experiment-08-Encoders-and-decoders-/assets/120081893/e98a63bf-7c9f-4f14-a784-9be9bbf85d51)
 
-DECODER
+##DECODER
 ![Ss tmde](https://github.com/Mourise9342/Experiment-08-Encoders-and-decoders-/assets/120081893/7c4ed327-118f-410e-aa55-6da65e76234d)
 
 
@@ -127,10 +127,10 @@ DECODER
 
 
 ### TRUTH TABLE 
-ENCODER
+##ENCODER
 ![TREN](https://github.com/Mourise9342/Experiment-08-Encoders-and-decoders-/assets/120081893/939143d4-0968-45df-a323-1fd508789954)
 
-DECODER
+ ##DECODER
 ![Screenshot 2023-06-13 183435](https://github.com/Mourise9342/Experiment-08-Encoders-and-decoders-/assets/120081893/07056d80-3ef2-40ff-9491-7b0cec0e0327)
 
 
